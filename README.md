@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souravs11
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking and Automation
-- 💞️ I’m looking to collaborate on Automation and Hacking
+- 🌱 I’m currently learning Security Automation and Detection Engineering
+- 💞️ I’m looking to collaborate on Automation and Detection domains within cybersec space
 - 📫 How to reach me ...
 
 <!---
